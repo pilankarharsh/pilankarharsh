@@ -7,10 +7,9 @@
 
   ## 🔧Tech Stack
 - **Languages:** HTML, CSS, JavaScript, C, C++, PHP, Java, Python, Kotlin
-- **Frameworks:** React, Node.js
-- **Databases:** SQL, Firebase
-- **CMS:** Sanity
-- 
+- **Frameworks/Libraries:**:** React, Bootstrap
+- **Back-end/Databases/CMS:** SQL, Firebase, Sanity
+  
 ## 📫 How to reach me ...
 - [Email](pilankarharsh.mail@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/harshpilankar/)
