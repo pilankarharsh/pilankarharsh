@@ -7,7 +7,7 @@
 
   ## 🔧Tech Stack
 - **Languages:** HTML, CSS, JavaScript, C, C++, PHP, Java, Python, Kotlin
-- **Frameworks/Libraries:**:** React.js, Express.js, Node.js Bootstrap
+- **Frameworks/Libraries:**: React.js, Express.js, Node.js Bootstrap
 - **Databases/CMS:** Sanity, MySQL, MongoDB (NoSQL: Document), Firebase (NoSQL: JSON & Documenet)
 - 
   
